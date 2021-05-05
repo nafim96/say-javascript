@@ -37,3 +37,22 @@ let array=['jolil', 'jobbar', 'karim', 'rahim', 'alam','balam']
 - Associative arrays in PHP.
 
 ## Arrays in JavaScript are actually a special type of object
+
+### Number
+
+### String
+
+### Boolean
+
+### Symbol (new in ES2015)
+
+### Object
+
+- Function
+- Array
+- Date
+- RegExp
+
+### null
+
+### undefined
