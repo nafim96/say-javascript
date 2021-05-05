@@ -1,0 +1,11 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Nasir Uddin",
+  "license": "ISC"
+}
